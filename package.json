@@ -1,0 +1,5 @@
+{
+  "name": "travis-ci-app",
+  "private": true,
+  "dependencies": {}
+}
